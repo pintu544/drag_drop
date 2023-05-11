@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+}
+.container .element {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border-radius: 1rem;
+  padding: 2px;
+  margin: 2px;
+}
